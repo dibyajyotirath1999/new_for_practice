@@ -25,3 +25,4 @@ class dibya:
 d=dibya(2000,100)
 d2=dibya(3000,200)
 print(d**d2)
+print(" i want to lear a lot")

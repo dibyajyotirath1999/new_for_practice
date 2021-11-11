@@ -1,3 +1,4 @@
+
 class a:
     def __init__(self,name,marks):
         self.name=name
@@ -8,3 +9,4 @@ class a:
 a1=a("dibya",100)
 b=a("ravi",80)
 print(a>b)
+print("my name is dibyajyoti rath")
