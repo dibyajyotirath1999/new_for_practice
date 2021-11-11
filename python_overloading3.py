@@ -12,7 +12,9 @@ s1=student("ravi",80)
 print(s>s1)
 print(s<s1)
 
-print("*************************************************")
+
+print("I am dibya")
+print("Muku wife is dibya")
 
 class dibya:
     def __init__(self,roll,marks):
